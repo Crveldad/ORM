@@ -3,6 +3,6 @@
         "illuminate/database": "^8.78"
     },
     "autoload": {
-        "psr-4": { "": "" }
+        "psr-4": { "Dwes\\": "app/Dwes" }
     }
 }
