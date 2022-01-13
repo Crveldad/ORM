@@ -6,7 +6,7 @@ use Illuminate\Database\Capsule\Manager as Capsule;
 $capsule = new Capsule;
 $capsule->addConnection([
     'driver'   => 'mysql',
-    'host'     => '7ab1e35155eb',
+    'host'     => 'b745314cbc07',
     'database' => 'dwes',
     'username' => 'root',
     'password' => '1234',
